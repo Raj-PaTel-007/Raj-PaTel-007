@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Raj Patel
 
-<!--
-**Raj-PaTel-007/Raj-PaTel-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raj-PaTel-007)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge)](https://codeforces.com/profile/Raj_PaTel_07)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge)](https://leetcode.com/u/Raj_PaTel_07/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpatel92879@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Student passionate about Software Development  
+- 💻 Learning Java, C++ and DSA  
+- 🧠 Interested in Problem Solving & Competitive Programming  
+- 🚀 Building small projects and improving daily  
+
+---
+
+## 🔭 Currently Learning 
+- Data Structures & Algorithms  
+- Git & GitHub  
+- Web Development Basics  
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Java  C++ 
+- Tools: Git · GitHub · VS Code  
+
+---
+
+⭐ *Consistency is more important than intensity*
