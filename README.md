@@ -1,6 +1,7 @@
 # Hi 👋, I'm Raj Patel
 
-**Aspiring Software Engineer | Problem Solver | Tech Enthusiast**
+🎓 Third Year B.Tech ICT Student at DA-IICT  
+💻 Aspiring Software Engineer | Problem Solver | Tech Enthusiast  
 
 ---
 
@@ -19,14 +20,17 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student passionate about Software Development  
-- 💻 Learning Java, C++ and DSA  
+
+- 🎓 Third Year B.Tech ICT Student at DA-IICT  
+- 💻 Passionate about Software Development  
+- ☕ Currently learning Java, C++ and Data Structures & Algorithms  
 - 🧠 Interested in Problem Solving & Competitive Programming  
-- 🚀 Building small projects and improving daily  
+- 🚀 Building small projects and continuously improving every day  
 
 ---
 
-## 🔭 Currently Learning 
+## 🔭 Currently Learning
+
 - Data Structures & Algorithms  
 - Git & GitHub  
 - Web Development Basics  
@@ -34,8 +38,29 @@
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Java  C++ 
+
+- Languages: Java · C++  
 - Tools: Git · GitHub · VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raj-PaTel-007&show_icons=true&theme=default" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-PaTel-007" />
+
+</p>
+
+---
+
+## ⚡ Competitive Programming
+
+- 💻 LeetCode: Problem Solving Practice  
+- 🏆 Codeforces: Contest Participation  
+- 🍳 CodeChef: Competitive Growth  
 
 ---
 
