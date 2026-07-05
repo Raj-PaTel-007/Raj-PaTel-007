@@ -31,7 +31,7 @@
 
 ## 🛠️ Tech Stack
 
-- Languages: Java · C++  
+- Languages:  C++ · C 
 - Tools: Git · GitHub · VS Code  
 
 ---
