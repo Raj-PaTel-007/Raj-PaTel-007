@@ -31,8 +31,9 @@
 
 ## 🛠️ Tech Stack
 
-- Languages:  C++ · C 
-- Tools: Git · GitHub · VS Code  
+**Languages:** C++ · C · Java (learning)  
+**Core CS:** Data Structures & Algorithms · OOP · DBMS  
+**Tools:** Git · GitHub · VS Code  
 
 ---
 
