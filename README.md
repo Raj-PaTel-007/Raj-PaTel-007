@@ -34,15 +34,7 @@
 
 ---
 
-## 🔭 Currently Learning
 
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-in%20progress-2ea44f?style=flat-square" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-in%20progress-2ea44f?style=flat-square" />
-<img src="https://img.shields.io/badge/Web%20Development%20Basics-in%20progress-2ea44f?style=flat-square" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
